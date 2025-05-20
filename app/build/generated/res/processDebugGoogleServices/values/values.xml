@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">635402780722</string>
+    <string name="google_api_key" translatable="false">AIzaSyD4dP_NvIF9Gp0Jh39XfD9yHYnccqLX8WE</string>
+    <string name="google_app_id" translatable="false">1:635402780722:android:dd4ace1f0f998f8912fc2b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD4dP_NvIF9Gp0Jh39XfD9yHYnccqLX8WE</string>
+    <string name="google_storage_bucket" translatable="false">projet-delistud.firebasestorage.app</string>
+    <string name="project_id" translatable="false">projet-delistud</string>
+</resources>

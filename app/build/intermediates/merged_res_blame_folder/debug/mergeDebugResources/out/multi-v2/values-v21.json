@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.delistud.app-mergeDebugResources-43:/values-v21/values-v21.xml",
+            "outputFile": "com.example.delistud.app-mergeDebugResources-53:/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "/home/lkanan/.gradle/caches/8.9/transforms/68890a3d76b40c7b1629b9506b50d873/transformed/core-1.16.0/res/values-v21/values-v21.xml",
+                    "source": "/home/lkanan/.gradle/caches/8.9/transforms/ba6022b92f4fbe562bd206f264f00ac9/transformed/core-1.16.0/res/values-v21/values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",

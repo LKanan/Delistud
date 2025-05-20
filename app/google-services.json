@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635402780722",
+    "project_id": "projet-delistud",
+    "storage_bucket": "projet-delistud.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635402780722:android:dd4ace1f0f998f8912fc2b",
+        "android_client_info": {
+          "package_name": "com.example.delistud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4dP_NvIF9Gp0Jh39XfD9yHYnccqLX8WE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
